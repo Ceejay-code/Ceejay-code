@@ -29,7 +29,7 @@ AWS
 Firebase
 💼 Work Experience
 
-Software Developer — Maoto Tech Solutions (2024 – Present)
+Software Developer - Maoto Tech Solutions (2024 – Present)
 
 Designed and developed an Employee Check-In & Check-Out system used internally to streamline daily operations.
 Built and maintained applications using Vue.js, Node.js, TypeScript, and MySQL.
